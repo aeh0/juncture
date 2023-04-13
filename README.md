@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Edward Thomas" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://live.staticflickr.com/4125/35305045770_31bdbc7b7c_3k.jpg" 
+       banner="https://live.staticflickr.com/4125/35305045770_31bdbc7b7c_3k.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -17,7 +17,7 @@
 
 This is a sample visual essay demonstrating a few key features of a visual essay.  Complete [Documentation](https://juncture-digital.org/docs) and helpful [examples](https://juncture-digital.org/examples) are available on the [Juncture site](https://juncture-digital.org).
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://librarysearch.cardiff.ac.uk/view/iiif/presentation/44WHELF_CAR/12205942350002420/manifest?iiifVersion=2">
 
 # Basic usage
 
